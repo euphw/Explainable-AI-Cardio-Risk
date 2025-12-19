@@ -1,7 +1,7 @@
 # Explainable-AI-Cardio-Risk
 ## 📉 Reproducibility & Data Privacy
 
-Due to the **Data Use Agreement (DUA)** of PhysioNet, we cannot share the raw MIMIC-III patient data used in this study.
+Note: Due to HIPAA restrictions, the raw MIMIC-III dataset cannot be shared publicly. The code provided here includes a dummy data generator to demonstrate the pipeline functionality. To reproduce the exact results reported in the paper, you must obtain credentialed access to MIMIC-III (physionet.org) and place the NOTEEVENTS.csv in the data folder.
 
 ### Demo Mode (Default)
 The notebook includes a **dummy data generator**. If you run the code directly (e.g., in Colab), it will detect missing data and automatically generate synthetic text.
