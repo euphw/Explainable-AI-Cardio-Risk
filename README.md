@@ -15,4 +15,4 @@ To reproduce the exact results reported in the paper:
 3. Save the data as `data/cardio_notes.csv` with columns: `subject_id`, `hadm_id`, `text`, `target`.
 4. Run the notebook. The script will detect the file and switch to **Real Data Mode**.
 
-[![Open In Colab](https://colab.research.google.com/drive/1GEuMTW7qVDEEJExIqVy2gyL0ZXSVNCgZ?usp=drive_link)
+[![Open In Colab]([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/euphw/Explainable-AI-Cardio-Risk/blob/master/Cardio_Risk_Prediction_XAI.ipynb))
